@@ -30,7 +30,7 @@
 ## Altium Components Library and DB :
  ```bash
     https://github.com/Gueni/Library/tree/master/ALTIUM%20LIB
-
+ ```
 ### Prerequisites
 - Python 3.8 or higher
 - PlatformIO (optional, for ESP32 support)
@@ -40,3 +40,4 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/gueni/FlashCraft.git
+   ```
