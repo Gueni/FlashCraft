@@ -1,4 +1,0 @@
-(sym_lib_table
-  (version 0)
-  (lib (name "AutoProgramCircuit-altium-import")(type "KiCad")(uri "${KIPRJMOD}/AutoProgramCircuit-altium-import.kicad_sym")(options "")(descr ""))
-)
