@@ -1,0 +1,14 @@
+[DesignatorManager]
+LogicalDesignator0=FT2232HL
+LogicalPartID0=1
+DocumentName0=FT2232 circuit  .SchDoc
+ChannelName0=FT2232 circuit
+UniqueID0=\NZKHPLHQ
+PhysicalDesignator0=U0
+PhysicalDesignatorLocked0=0
+
+[SheetNumberManager]
+SheetNumberOrder=Display Order
+SheetNumberMethod=Increasing
+
+
