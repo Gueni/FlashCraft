@@ -27,6 +27,9 @@
 ---
 
 ## Installation
+## Altium Components Library and DB :
+ ```bash
+    https://github.com/Gueni/Library/tree/master/ALTIUM%20LIB
 
 ### Prerequisites
 - Python 3.8 or higher
