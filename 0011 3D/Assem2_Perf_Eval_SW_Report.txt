@@ -1,5 +1,0 @@
-Instance of the following were suppressed or opened from new location when this file was opened
-
-File	Reason	
-D:\WORKSPACE\Old Projects\BLENTC\3D\T7335D_Assembly.SLDPRT	The internal ID does not match
-
