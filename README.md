@@ -22,22 +22,10 @@
 
 - ESP32
 - PIC16, PIC18, PIC32
-- *(Add more as you expand support)*
 
----
-
-## Installation
 ## Altium Components Library and DB :
  ```bash
     https://github.com/Gueni/Library/tree/master/ALTIUM%20LIB
  ```
-### Prerequisites
-- Python 3.8 or higher
-- PlatformIO (optional, for ESP32 support)
-- MPLAB X IDE (optional, for PIC support)
-
-### Steps
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/gueni/FlashCraft.git
+https://github.com/gueni/FlashCraft.git
    ```
