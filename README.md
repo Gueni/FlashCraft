@@ -27,5 +27,3 @@
  ```bash
     https://github.com/Gueni/Library/tree/master/ALTIUM%20LIB
  ```
-https://github.com/gueni/FlashCraft.git
-   ```
