@@ -220,7 +220,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document11]
-DocumentPath=..\..\LIB\Library\ALTIUM LIB\DATABASE.DbLib
+DocumentPath=FlashCraft.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -237,7 +237,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document12]
-DocumentPath=FlashCraft.OutJob
+DocumentPath=..\..\LIB\Library\ALTIUM LIB\DATABASE.DbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0

@@ -2,9 +2,8 @@
 
 **FlashCraft** is a versatile and efficient tool designed for programming and debugging microcontrollers like ESP32, PIC, and more. Whether you're a developer, engineer, or hobbyist, FlashCraft simplifies firmware flashing and debugging for embedded systems.
 
-<p align="center">
-  <img  src="\0010 PCB\FlashCraft Logo.png"
-</p>
+![PCB Preview](./1.png)![PCB Preview](./2.png)
+![PCB Preview](3.png)![PCB Preview](4.png)
 ---
 
 ## Features
