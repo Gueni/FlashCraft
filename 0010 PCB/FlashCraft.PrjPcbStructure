@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=AutoProgramCircuit.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=AutoProgramCircuit.SchDoc|FileName=ConnectorsCircuit.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=AutoProgramCircuit.SchDoc|FileName=FT2232Circuit.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=AutoProgramCircuit.SchDoc|FileName=USBandPOWER.SchDoc|SheetNumber= 
